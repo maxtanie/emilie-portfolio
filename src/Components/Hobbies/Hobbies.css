@@ -1,0 +1,35 @@
+#loisirs {
+  position: relative;
+  background: #fff; }
+
+.block-circles-hobbies {
+  width: 190px; }
+  .block-circles-hobbies .img-hobbies {
+    width: 150px; }
+  .block-circles-hobbies:nth-child(1) {
+    margin-top: -7px; }
+  .block-circles-hobbies:nth-child(2) {
+    margin-top: -2px; }
+  .block-circles-hobbies:nth-child(3) {
+    margin-top: -53px; }
+  .block-circles-hobbies:nth-child(4) {
+    margin-top: 44px; }
+
+.grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  align-items: center;
+  justify-items: center;
+  margin-top: 90px; }
+
+.name-hobbies {
+  width: 100%;
+  text-align: center;
+  bottom: 9px;
+  margin-top: 20px;
+  font-size: 20px;
+  margin-left: -20px;
+  font-weight: bold; }
+
+.container-second {
+  width: 950px; }

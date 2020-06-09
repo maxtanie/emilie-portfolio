@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Paytone+One&family=Righteous&family=Shrikhand&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body,
+html {
+  font-family: "Righteous", sans-serif;
+  text-rendering: optimizeLegibility !important;
+  scroll-behavior: smooth; }
+
+h2,
+h3,
+h4 {
+  font-family: "Paytone One", sans-serif;
+  text-align: center; }
+
+h2 {
+  text-transform: capitalize;
+  font-family: "great wishes";
+  font-weight: lighter;
+  font-size: 45px; }
+
+h3 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #333; }
+
+h4 {
+  font-size: 18px;
+  color: #333;
+  font-weight: 600; }
+
+h5 {
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 20px; }
+
+.lighter {
+  font-weight: lighter !important; }
+
+.auto {
+  max-width: 100%;
+  margin: auto;
+  display: block; }
+
+.purple-bg-color {
+  background-color: #4c0bd9; }
+
+.yellow-light-bg-color {
+  background-color: #fffa65 !important; }
+
+.bg-yellow-color {
+  background-color: #ffff05; }
+
+.fluo-yellow-color {
+  color: #ffff05 !important; }
+
+.purple-color {
+  color: #4c0bd9; }
+
+.red-apple-color {
+  color: #ff3838 !important; }
+
+.yellow-color {
+  color: #ffd600 !important; }
+
+.violet-pink-color {
+  color: #e61b76; }
+
+.violet-pink-2-color {
+  color: #bc04bf; }
+
+.great-wishes {
+  font-family: "great wishes"; }
+
+.list-no-items {
+  list-style-type: none; }
+
+.section-content {
+  padding: 50px; }

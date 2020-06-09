@@ -1,0 +1,167 @@
+import React, { Component } from "react";
+import "./Nav1.scss";
+
+export default class Nav1 extends Component {
+  render() {
+    const pub = process.env.PUBLIC_URL;
+
+    const { link1, link2, link3, subMenuLinks = [] } = this.props;
+    const subMenu = subMenuLinks;
+
+    return (
+      <nav className="main-nav-top-center auto">
+        <a href="/" className="logo">
+          <img
+            src={pub + "img/new-icones/logo-1.png"}
+            alt="Logo Emilie Pham Da"
+            className="logo-main-nav"
+          />
+        </a>
+
+        <ul className="container-menu auto great-wishes flex">
+          <li className="list-no-items triangle-home">
+            <img
+              src={pub + "img/new-icones/accueil.png"}
+              alt=""
+              className="icon-menu"
+            />
+            <a href="/" className="anchors-main-menu anch-1 yellow-color">
+              {link1}
+            </a>
+          </li>
+          <li className="list-no-items circle-creations">
+            <img
+              src={pub + "img/new-icones/creation.png"}
+              alt=""
+              className="icon-menu-2"
+            />
+            <a
+              href="/creations"
+              className="anchors-main-menu anch-2 red-apple-color"
+            >
+              {link2}
+              <ul className="sub-menu-main">
+                {subMenu.map((subMenuLists, index) => {
+                  return (
+                    <li key={index} className="list-no-items">
+                      <a href="" className="anchors-main-menu">
+                        {subMenuLists}
+                      </a>
+                    </li>
+                  );
+                })}
+              </ul>
+            </a>
+          </li>
+          <li className="list-no-items square-contact">
+            <img
+              src={pub + "img/new-icones/contact.png"}
+              alt=""
+              className="icon-menu-3"
+            />
+            <a
+              href="/contact"
+              className="anchors-main-menu anch-3 violet-pink-color"
+            >
+              {link3}
+            </a>
+          </li>
+        </ul>
+      </nav>
+    );
+  }
+}
+
+
+.main-nav-top-center {
+  width: 1200px;
+  padding: 15px 0;
+  text-align: center;
+
+  .logo {
+    .logo-main-nav {
+      width: 120px;
+    }
+  }
+
+  .anchors-main-menu {
+    font-size: 15px;
+    display: block;
+    text-decoration: none;
+  }
+}
+
+.container-menu {
+  position: relative;
+  width: 580px;
+  margin-top: 40px;
+}
+
+.sub-menu-main {
+  visibility: hidden;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.icon-menu {
+  width: 180px;
+}
+
+.icon-menu-2,
+.icon-menu-3 {
+  width: 150px;
+}
+
+.icon-menu-2,
+.anch-2 {
+  margin-left: -28px;
+}
+.anch-1 {
+  margin-top: -80px;
+  &::after {
+    content: "";
+    position: absolute;
+    width: 8px;
+    height: 175px;
+    transform: rotate(45deg);
+    top: -40px;
+    margin-top: -25px;
+    margin-left: 75px;
+    z-index: -9;
+    background-color: #fffa65;
+  }
+}
+
+.anch-2 {
+  &:before {
+    content: "";
+    position: absolute;
+    width: 8px;
+    height: 50px;
+    background-color: #ff3838;
+    top: -40px;
+    z-index: -9;
+    margin-left: 28px;
+  }
+}
+.anch-2,
+.anch-3 {
+  margin-top: -95px;
+}
+
+.anch-3 {
+  &::after {
+    content: "";
+    position: absolute;
+    width: 8px;
+    height: 175px;
+    transform: rotate(-45deg);
+    top: -40px;
+    margin-top: -25px;
+    margin-left: -150px;
+    background-color: #e61b76;
+    z-index: -9;
+  }
+}

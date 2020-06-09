@@ -1,0 +1,18 @@
+#apropos {
+  min-height: 100vh;
+  background: #fff; }
+  #apropos .img-section .img-about-me {
+    width: 150px;
+    margin-bottom: 20px; }
+  #apropos .content-txt {
+    width: 1150px;
+    margin-top: 35px; }
+    #apropos .content-txt .txt-left,
+    #apropos .content-txt .txt-right {
+      width: 550px;
+      line-height: 1.6; }
+    #apropos .content-txt .txt-left {
+      text-align: right; }
+
+.container-skills-about {
+  width: 350px; }

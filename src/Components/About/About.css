@@ -1,0 +1,66 @@
+#section-about {
+  min-height: 100vh;
+  background-image: url("../../bg-ab.png");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat; }
+  #section-about .content {
+    width: 690px;
+    max-width: 100%;
+    margin: auto;
+    display: block;
+    margin-top: 25px;
+    padding: 0 30px;
+    color: #39609a; }
+    #section-about .content #img-about-me {
+      width: 150px;
+      margin: auto;
+      display: block;
+      margin-bottom: 20px; }
+
+.padding-section {
+  padding: 50px 0; }
+
+.title-section {
+  font-size: 2.5em;
+  margin-bottom: 20px; }
+
+.uppercase {
+  text-transform: uppercase; }
+
+.center {
+  text-align: center; }
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 40px);
+  grid-gap: 10px; }
+  @media screen and (max-width: 580px) {
+    .grid-2 {
+      grid-template-columns: repeat(1, 1fr); } }
+
+.flex {
+  display: flex; }
+
+.block-skills-example {
+  line-height: 40px;
+  font-size: 15px;
+  background-color: #4bd4f2;
+  border-radius: 12px;
+  color: #fff; }
+  .block-skills-example .name {
+    text-align: center;
+    width: 100%; }
+
+.mtop {
+  margin-top: 55px; }
+
+.social-link {
+  color: #39609a;
+  font-weight: bold; }
+  .social-link:hover {
+    color: inherit; }
+
+.green {
+  color: #60c0c3; }

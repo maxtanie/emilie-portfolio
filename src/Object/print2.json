@@ -1,0 +1,281 @@
+[
+  {
+    "DefaultsCreations": [
+      {
+        "item": "print",
+        "img": "img/print/img-presentation-hover/maquette-flyer-my-bootik-.jpg",
+        "name": "flyer-my-bootik",
+        "alt": "Flyer my bootik"
+      }
+    ],
+    "ListSlide": [
+      {
+        "id": 1,
+        "img": "img/print/flyer-my-bootik/img-300px/flyer-etape-1.jpg",
+        "isActived": true
+      },
+      {
+        "id": 2,
+        "img": "img/print/flyer-my-bootik/img-300px/flyer-etape-2.jpg",
+        "isActived": false
+      },
+      {
+        "id": 3,
+        "img": "img/print/flyer-my-bootik/img-300px/flyer-etape-3.jpg",
+        "isActived": false
+      },
+      {
+        "id": 4,
+        "img": "img/print/flyer-my-bootik/img-300px/flyer-etape-4.jpg",
+        "isActived": false
+      },
+      {
+        "id": 5,
+        "img": "img/print/flyer-my-bootik/img-300px/flyer-etape-5.jpg",
+        "isActived": false
+      },
+      {
+        "id": 6,
+        "img": "img/print/flyer-my-bootik/img-300px/maquette-flyer-my-bootik-.jpg",
+        "isActived": false
+      },
+      {
+        "id": 7,
+        "img": "img/print/flyer-my-bootik/img-300px/maquette-flyer-my-bootik-2.jpg",
+        "isActived": false
+      }
+    ],
+    "ListsDefaultCreationsDetails": [
+      {
+        "id": 1,
+        "name": "My Bootik",
+        "item": "print",
+        "descriptions": "Flyer my bootik un super rendu"
+      },
+      {
+        "id": 2,
+        "name": "My Bootik",
+        "item": "print",
+        "descriptions": "Etape de la création petite pyramide avec un léger éclairage au centre."
+      },
+      {
+        "id": 3,
+        "name": "My Bootik",
+        "item": "print",
+        "descriptions": "Etape des barres colorées et duplication des formes en coupe diagonale afin de lui apporter une touche esthétique."
+      },
+      {
+        "id": 4,
+        "name": "My Bootik",
+        "item": "print",
+        "descriptions": "Même mise en forme à droite mais en ajoutant des couleurs chaudes."
+      },
+      {
+        "id": 5,
+        "name": "My Bootik",
+        "item": "print",
+        "descriptions": "Ajout de divers éléments graphiques : Photo, forme graphique carré arrondie."
+      },
+      {
+        "id": 6,
+        "name": "My Bootik",
+        "item": "print",
+        "descriptions": "Design finalisée du flyer ( partie recto) ajout du nom de l'enseigne et coordonnées de la boutique."
+      },
+      {
+        "id": 7,
+        "name": "My Bootik",
+        "item": "print",
+        "descriptions": "Design finalisée du flyer ( partie verso) ajout du nom de l'enseigne et coordonnées de la boutique."
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "print",
+        "img": "img/print/img-presentation-hover/MAG.jpg",
+        "name": "magazine-retro-game",
+        "alt": "Magazine retrogame"
+      }
+    ],
+    "ListSlide": [
+      {
+        "id": 1,
+        "img": "img/print/greatwood/img-300px/MAG-1.jpg",
+        "isActived": true
+      },
+      {
+        "id": 2,
+        "img": "img/print/greatwood/img-300px/magazine-couverture-2.jpg",
+        "isActived": false
+      },
+      {
+        "id": 3,
+        "img": "img/print/greatwood/img-300px/magazine-v-2-3.jpg",
+        "isActived": false
+      },
+      {
+        "id": 4,
+        "img": "img/print/greatwood/img-300px/catalogue_gabar-final-4-.jpg",
+        "isActived": false
+      }
+    ],
+    "ListsDefaultCreationsDetails": [
+      {
+        "id": 1,
+        "name": "Magazine retro",
+        "item": "print",
+        "descriptions": "Magazine retro game super 1"
+      },
+      {
+        "id": 2,
+        "name": "Magazine retro",
+        "item": "print",
+        "descriptions": "Magazine retro game super 2 "
+      },
+      {
+        "id": 3,
+        "name": "Magazine retro",
+        "item": "print",
+        "descriptions": "Magazine retro game super 3"
+      },
+      {
+        "id": 4,
+        "name": "Magazine retro",
+        "item": "print",
+        "descriptions": "Magazine retro game super 4 "
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "print",
+        "img": "img/print/img-presentation-hover/flyer-paris-2011.jpg",
+        "name": "jeux-video",
+        "alt": "Jeux vidéo"
+      }
+    ],
+    "ListSlide": [
+      {
+        "id": 1,
+        "img": "img/print/jeu-video-com/img-300px/flyer-paris-2011-1.jpg",
+        "isActived": true
+      },
+      {
+        "id": 2,
+        "img": "img/print/jeu-video-com/img-300px/flyer-paris-2011-2.jpg",
+        "isActived": false
+      }
+    ],
+    "ListsDefaultCreationsDetails": [
+      {
+        "id": 1,
+        "name": "Jeux video",
+        "item": "print",
+        "descriptions": "Mon super jeux vidéo 1"
+      },
+      {
+        "id": 2,
+        "name": "Jeux video",
+        "item": "print",
+        "descriptions": "Mon super jeux vidéo 2"
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "print",
+        "img": "img/print/img-presentation-hover/affiche-30ans-1.jpg",
+        "name": "affiche-cinema",
+        "alt": "Affiche cinéma"
+      }
+    ],
+    "ListSlide": [
+      {
+        "id": 1,
+        "img": "img/print/affiche-cinema/img-300px/affiche-30ans-1.jpg",
+        "isActived": true
+      },
+      {
+        "id": 2,
+        "img": "img/print/affiche-cinema/img-300px/img-30ans-2.jpg",
+        "isActived": false
+      },
+      {
+        "id": 3,
+        "img": "img/print/affiche-cinema/img-petite-vignette/acteurs-3.jpg",
+        "isActived": false
+      },
+      {
+        "id": 4,
+        "img": "img/print/affiche-cinema/img-petite-vignette/titre30-ans-4.jpg",
+        "isActived": false
+      }
+    ],
+    "ListsDefaultCreationsDetails": [
+      {
+        "id": 1,
+        "name": "Affiche cinéma",
+        "item": "print",
+        "descriptions": "Ma super affiche cinéma 1"
+      },
+      {
+        "id": 2,
+        "name": "Affiche cinéma",
+        "item": "print",
+        "descriptions": "Ma super affiche cinéma 2"
+      },
+      {
+        "id": 3,
+        "name": "Affiche cinéma",
+        "item": "print",
+        "descriptions": "Ma super affiche cinéma 3"
+      },
+      {
+        "id": 4,
+        "name": "Affiche cinéma",
+        "item": "print",
+        "descriptions": "Ma super affiche cinéma 4"
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "print",
+        "img": "img/print/img-presentation-hover/carte-visite-mallyance.jpg",
+        "name": "carte-de-visite-mallyance",
+        "alt": "Carte de visite Mallyance"
+      }
+    ],
+    "ListSlide": [
+      {
+        "id": 1,
+        "img": "img/print/mallyance/img-petite-vignette/carte-visite-mallyance.jpg",
+        "isActived": true
+      },
+      {
+        "id": 2,
+        "img": "img/print/mallyance/img-petite-vignette/carte-visite-mallyance2.jpg",
+        "isActived": false
+      }
+    ],
+    "ListsDefaultCreationsDetails": [
+      {
+        "id": 1,
+        "name": "Carte de visite",
+        "item": "print",
+        "descriptions": "Une superbe carte de visite 1"
+      },
+      {
+        "id": 2,
+        "name": "Carte de visite",
+        "item": "print",
+        "descriptions": "Une superbe carte de visite 2"
+      }
+    ]
+  }
+]

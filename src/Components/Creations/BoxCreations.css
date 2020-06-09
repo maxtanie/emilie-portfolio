@@ -1,0 +1,50 @@
+.container-design {
+  width: 1200px;
+  max-width: 100%;
+  margin: auto;
+  display: block;
+  margin-top: 50px; }
+
+.box-creations {
+  position: relative;
+  width: 425px;
+  height: 425px;
+  transition: 0.3s ease-in-out; }
+  .box-creations .block-img-default img {
+    width: 100%;
+    height: 100%;
+    display: block; }
+
+.grid-creations,
+.filter-item {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); }
+
+.filter-item {
+  width: 31%;
+  margin-top: 40px; }
+
+.box-creations {
+  margin-right: 2.3%; }
+
+.hide {
+  opacity: 0; }
+
+.layer-infos {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #000 url("../../hover-galerie-cadre.png") no-repeat center;
+  background-size: cover;
+  transition: 0.4s ease-in-out; }
+
+.name {
+  font-size: 25px;
+  color: #fff;
+  line-height: 425px; }
+
+.box-creations:hover .hide,
+.box-creations:hover .layer-infos {
+  opacity: 1;
+  transition: 0.3s ease-in; }

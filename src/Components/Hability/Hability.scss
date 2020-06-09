@@ -1,0 +1,39 @@
+.mtop-hability {
+  margin-top: 35px;
+}
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 25px;
+  @media screen and (max-width: 640px) {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.square-hability {
+  position: relative;
+  background: #4bd4f2;
+  color: #4c0bd9;
+  padding-bottom: 40px;
+}
+
+.block-img-hability {
+  width: 100%;
+  background: #4bd4f2;
+  color: #4c0bd9;
+  padding-top: 40px;
+}
+
+.img-hability {
+  width: 100px;
+  margin: auto;
+  display: block;
+}
+
+.block-description {
+  text-align: center;
+  font-size: 0.8em;
+  font-weight: bold;
+  line-height: 1.6;
+  margin-top: 22px;
+}

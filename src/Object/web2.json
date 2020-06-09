@@ -1,0 +1,167 @@
+[
+  {
+    "DefaultsCreations": [
+      {
+        "item": "web",
+        "img": "img/web/img-presentation-hover/newsletter-sephora-1.jpg",
+        "name": "newsletters",
+        "alt": "Newsletters"
+      }
+    ],
+    "ListSlide": [
+      {
+        "id": 1,
+        "img": "img/web/banniere/img-vignette/newsletter-sephora-1.jpg",
+        "isActived": true
+      },
+      {
+        "id": 2,
+        "img": "img/web/banniere/img-vignette/newsletter-sephora-2.jpg",
+        "isActived": false
+      },
+      {
+        "id": 3,
+        "img": "img/web/banniere/img-vignette/newsletter-3.jpg",
+        "isActived": false
+      },
+      {
+        "id": 4,
+        "img": "img/web/banniere/img-vignette/banniere-lapin-4.jpg",
+        "isActived": false
+      }
+    ],
+    "ListsDefaultCreationsDetails": [
+      {
+        "id": 1,
+        "name": "Newsletter",
+        "item": "web",
+        "descriptions": "Newsletter web 1"
+      },
+      {
+        "id": 2,
+        "name": "Newsletter",
+        "item": "web",
+        "descriptions": "Newsletter web 2"
+      },
+      {
+        "id": 3,
+        "name": "Newsletter",
+        "item": "web",
+        "descriptions": "Newsletter web 3"
+      },
+      {
+        "id": 4,
+        "name": "Newsletter",
+        "item": "web",
+        "descriptions": "Newsletter web 4"
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "web",
+        "img": "img/web/img-presentation-hover/zoning-template-2.jpg",
+        "name": "projet-argamato",
+        "alt": "Projet Argamato"
+      }
+    ],
+    "ListSlide": [
+      {
+        "id": 1,
+        "img": "img/web/out-of-plutot/img-vignette/home-page-1.jpg",
+        "isActived": true
+      },
+      {
+        "id": 2,
+        "img": "img/web/out-of-plutot/img-vignette/exemple-page-artiste-2.jpg",
+        "isActived": false
+      },
+      {
+        "id": 3,
+        "img": "img/web/out-of-plutot/img-vignette/template-tablette-3.jpg",
+        "isActived": false
+      },
+      {
+        "id": 4,
+        "img": "img/web/out-of-plutot/img-vignette/zoning-template-4.jpg",
+        "isActived": false
+      },
+      {
+        "id": 5,
+        "img": "img/web/out-of-plutot/img-vignette/zoning-template-mobil-5.jpg",
+        "isActived": false
+      }
+    ],
+    "ListsDefaultCreationsDetails": [
+      {
+        "id": 1,
+        "name": "Projet argamato",
+        "item": "web",
+        "descriptions": "Projet argamato web 1"
+      },
+      {
+        "id": 2,
+        "name": "Projet argamato",
+        "item": "web",
+        "descriptions": "Newsletter web 2"
+      },
+      {
+        "id": 3,
+        "name": "Projet argamato",
+        "item": "web",
+        "descriptions": "Newsletter web 3"
+      },
+      {
+        "id": 4,
+        "name": "Projet argamato",
+        "item": "web",
+        "descriptions": "Newsletter web 4"
+      },
+      {
+        "id": 5,
+        "name": "Projet argamato",
+        "item": "web",
+        "descriptions": "Newsletter web 5"
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "web",
+        "img": "img/web/img-presentation-hover/maquette-stacbuck-banniere-3.jpg",
+        "name": "banniere-web-starbucks",
+        "alt": "Bannière web Starbucks"
+      }
+    ],
+    "ListsDefaultCreationsDetails": [
+      {
+        "id": 1,
+        "name": "Banniere web starbucks",
+        "item": "web",
+
+        "descriptions": "Banniere web starbucks 1"
+      },
+      {
+        "id": 2,
+        "name": "Banniere web starbucks",
+        "item": "web",
+
+        "descriptions": "Banniere web starbucks 2"
+      }
+    ],
+    "ListSlide": [
+      {
+        "id": 1,
+        "img": "img/web/starbucks/img-vignette/maquette-stacbuck-banniere-1.jpg",
+        "isActived": true
+      },
+      {
+        "id": 2,
+        "img": "img/web/starbucks/img-vignette/maquette-stacbuck-2.jpg",
+        "isActived": false
+      }
+    ]
+  }
+]

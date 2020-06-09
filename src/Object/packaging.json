@@ -1,0 +1,61 @@
+[
+  {
+    "DefaultsCreations": [
+      {
+        "item": "packaging",
+        "img": "",
+        "name": "paper-toy",
+        "alt": "PaperToy",
+        "ListsDefaultCreationsDetails": [
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "packaging",
+        "img": "",
+        "name": "canette-coca-cola",
+        "alt": "Canette Coca Cola",
+        "ListsDefaultCreationsDetails": [
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          }
+        ]
+      }
+    ]
+  }
+]

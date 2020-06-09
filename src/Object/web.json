@@ -1,0 +1,93 @@
+[
+  {
+    "DefaultsCreations": [
+      {
+        "item": "web",
+        "img": "",
+        "name": "newsletters",
+        "alt": "Newsletters",
+        "ListsDefaultCreationsDetails": [
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "web",
+        "img": "",
+        "name": "projet-argamato",
+        "alt": "Projet Argamato",
+        "ListsDefaultCreationsDetails": [
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "web",
+        "img": "",
+        "name": "banniere-web-starbucks",
+        "alt": "Bannière web Starbucks",
+        "ListsDefaultCreationsDetails": [
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "DefaultsCreations": [
+      {
+        "item": "print",
+        "img": "img/print/flyer-my-bootik/img-300px/maquette-flyer-my-bootik-.jpg",
+        "name": "flyer-my-bootik",
+        "alt": "Flyer my bootik",
+        "ListsDefaultCreationsDetails": [
+          {
+            "id": 1,
+            "img": "img/print/flyer-my-bootik/img-300px/flyer-etape-1.jpg",
+            "alt": "flyer 1",
+            "descriptions": "Flyer my bootik un super rendu"
+          },
+          {
+            "id": 2,
+            "img": "img/print/flyer-my-bootik/img-300px/flyer-etape-2.jpg",
+            "alt": "",
+            "descriptions": "Etape de la création petite pyramide avec un léger éclairage au centre."
+          },
+          {
+            "id": 3,
+            "img": "img/print/flyer-my-bootik/img-300px/flyer-etape-3.jpg",
+            "alt": "",
+            "descriptions": "Etape des barres colorées et duplication des formes en coupe diagonale afin de lui apporter une touche esthétique."
+          },
+          {
+            "id": 4,
+            "img": "img/print/flyer-my-bootik/img-300px/flyer-etape-4.jpg",
+            "alt": "",
+            "descriptions": "Même mise en forme à droite mais en ajoutant des couleurs chaudes."
+          },
+          {
+            "id": 5,
+            "img": "img/print/flyer-my-bootik/img-300px/flyer-etape-5.jpg",
+            "alt": "",
+            "descriptions": "Ajout de divers éléments graphiques : Photo, forme graphique carré arrondie."
+          },
+          {
+            "id": 6,
+            "img": "img/print/flyer-my-bootik/img-300px/maquette-flyer-my-bootik-.jpg",
+            "alt": "",
+            "descriptions": "Design finalisée du flyer ( partie recto) ajout du nom de l'enseigne et coordonnées de la boutique."
+          },
+          {
+            "id": 7,
+            "img": "img/print/flyer-my-bootik/img-300px/maquette-flyer-my-bootik-2.jpg",
+            "alt": "",
+            "descriptions": "Design finalisée du flyer ( partie verso) ajout du nom de l'enseigne et coordonnées de la boutique."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "print",
+        "img": "",
+        "name": "magazine-retro-game",
+        "alt": "Magazine retrogame",
+        "ListsDefaultCreationsDetails": [
+          {
+            "id": 1,
+            "img": "",
+            "alt": "",
+            "descriptions": "magazine retro game super"
+          },
+          {
+            "id": 2,
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "id": 3,
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "id": 4,
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "print",
+        "img": "",
+        "name": "jeux-video",
+        "alt": "Jeux vidéo",
+        "ListsDefaultCreationsDetails": [
+          {
+            "id": 1,
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "id": 2,
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "print",
+        "img": "",
+        "name": "affiche-cinema",
+        "alt": "Affiche cinéma",
+        "ListsDefaultCreationsDetails": [
+          {
+            "id": 1,
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "id": 2,
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "id": 3,
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "id": 4,
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "DefaultsCreations": [
+      {
+        "item": "print",
+        "img": "",
+        "name": "carte-de-visite-mallyance",
+        "alt": "Carte de visite Mallyance",
+        "ListsDefaultCreationsDetails": [
+          {
+            "id": 1,
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          },
+          {
+            "id": 2,
+            "img": "",
+            "alt": "",
+            "descriptions": ""
+          }
+        ]
+      }
+    ]
+  }
+]

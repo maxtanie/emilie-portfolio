@@ -1,0 +1,37 @@
+.second-nav {
+  position: fixed;
+  width: 190px;
+  max-width: 90%;
+  top: 50%;
+  right: 25px;
+  transform: translateY(-50%);
+  z-index: 999;
+  text-align: center;
+
+  .list-items {
+    list-style-type: none;
+    border-radius: 12px;
+    margin-bottom: 17px;
+    height: 50px;
+    transition: 0.3s ease-in-out;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+
+    &:hover {
+      background: #ffff05 !important;
+    }
+  }
+  .anchors {
+    line-height: 50px;
+    font-size: 19px;
+    display: block;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+  }
+}
+
+.list-items:hover .anchors {
+  color: #4c0bd9 !important;
+}
